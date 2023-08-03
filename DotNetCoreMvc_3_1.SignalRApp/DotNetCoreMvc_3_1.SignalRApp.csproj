@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <CopyRefAssembliesToPublishDirectory>false</CopyRefAssembliesToPublishDirectory>
+    <RootNamespace>DotNetCoreMvc_3_1.SignalApp</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

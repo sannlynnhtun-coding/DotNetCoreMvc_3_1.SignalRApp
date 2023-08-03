@@ -16,7 +16,7 @@
         "ASPNETCORE_HOSTINGSTARTUPASSEMBLIES": "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation"
       }
     },
-    "DotNetCoreMvc_3_1.SignalApp": {
+    "DotNetCoreMvc_3_1.SignalRApp": {
       "commandName": "Project",
       "launchBrowser": true,
       "applicationUrl": "https://localhost:44375;http://localhost:50312",
