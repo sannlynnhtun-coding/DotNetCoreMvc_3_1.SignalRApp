@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33920.266
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCoreMvc_3_1.SignalApp", "DotNetCoreMvc_3_1.SignalApp\DotNetCoreMvc_3_1.SignalApp.csproj", "{CDC526D9-2378-4D1A-BEFD-F3566BC3398A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDC526D9-2378-4D1A-BEFD-F3566BC3398A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDC526D9-2378-4D1A-BEFD-F3566BC3398A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDC526D9-2378-4D1A-BEFD-F3566BC3398A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDC526D9-2378-4D1A-BEFD-F3566BC3398A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C776CAE-AFFC-4C99-BF3F-3DDA37DDB818}
+	EndGlobalSection
+EndGlobal
